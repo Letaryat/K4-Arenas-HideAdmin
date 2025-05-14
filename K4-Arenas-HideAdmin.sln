@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K4-Arenas-HideAdmin", "K4-Arenas-HideAdmin\K4-Arenas-HideAdmin.csproj", "{94E472FD-7F23-F5A1-F576-2E64431A617E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E472FD-7F23-F5A1-F576-2E64431A617E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E472FD-7F23-F5A1-F576-2E64431A617E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E472FD-7F23-F5A1-F576-2E64431A617E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E472FD-7F23-F5A1-F576-2E64431A617E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84EBDFD-03A2-4677-A7F0-5F2E0D6C2E44}
+	EndGlobalSection
+EndGlobal
